@@ -41,3 +41,8 @@
   <b>Synaptic Engine Generator</b><br>
   <img src="2024-\Synaptic Engine Generator\00Synaptic Engine Generator FPGA Block Diagram.png" alt="Synaptic Engine Generator" height="400"/>
 </a><br><br>
+
+<a href="2015-\AIO Keypad Firmware Development (AIOK)\README.md">
+  <b>AIO Keypad Firmware Development (AIOK)</b><br>
+  <img src="2015-\AIO Keypad Firmware Development (AIOK)\1AIO Keypad.png" alt="AIOK" height="400"/>
+</a><br><br>

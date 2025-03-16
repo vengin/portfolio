@@ -81,3 +81,8 @@
   <b>Aiphone IX-OnGuard Integration for Device Translator Driver (IXSI)</b><br>
   <img src="2015-\Aiphone IX-OnGuard Integration for Device Translator Driver (IXSI)\0IX Series Products.jpg" alt="IXSI" height="400"/>
 </a><br><br>
+
+<a href="2015-\Programmable Hardware Testbenches (PHWTB)\README.md">
+  <b>Programmable Hardware Testbenches (PHWTB) for SPO board</b><br>
+  <img src="2015-\Programmable Hardware Testbenches (PHWTB)\0SPO Board - HW-PHW Architecture.png" alt="PHWTB" height="400"/>
+</a><br><br>

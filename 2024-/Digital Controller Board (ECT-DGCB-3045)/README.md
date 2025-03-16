@@ -21,7 +21,6 @@ Vivado, Vitis, Zynq 7000 SoC FPGA, Verilog, Embedded C, Firmware development, BI
 
 <hr>
 
-##
 **DGCB Board Photo with Components Call-outs:**
 <img alt="DGCB Board Photo with Components Call-outs" src="01DGCB Board Photo with Components Call-outs.jpg">
 

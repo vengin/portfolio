@@ -13,7 +13,6 @@ Vivado, Vitis, Zynq 7000 SoC FPGA, Verilog, Embedded C, Firmware development, BI
 
 <hr>
 
-##
 **ECT-DGCB-EVK Board with Tags:**
 <img alt="ECT-DGCB-EVK Board with Tags" src="0ECT-DGCB-EVK Board with Tags.jpg">
 

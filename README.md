@@ -36,3 +36,8 @@
   <b>Digital Controller Evaluation Kit (ECT-DGCB-EVK)</b><br>
   <img src="2024-\Digital Controller Evaluation Kit (ECT-DGCB-EVK)\0ECT-DGCB-EVK Board with Tags.jpg" alt="ECT-DGCB-EVK" height="400"/>
 </a><br><br>
+
+<a href="2024-\Synaptic Engine Generator\README.md">
+  <b>Synaptic Engine Generator</b><br>
+  <img src="2024-\Synaptic Engine Generator\00Synaptic Engine Generator FPGA Block Diagram.png" alt="Synaptic Engine Generator" height="400"/>
+</a><br><br>

@@ -20,7 +20,7 @@ Vivado, Vitis, Zynq 7000 SoC, PCI Express, pcie xdma driver, Petalinux.
 **EENIC Board Components Explained:**
 <img alt="EENIC Board Components Explained" src="0EENIC Board Components Explained.png">
 
-**EENIC Data Flow:**
+**EENIC Data Flow:**                      
 <img alt="EENIC Data Flow" src="1EENIC Data Flow.jpg">
 
 **EENIC Block Diagram:**
@@ -32,12 +32,8 @@ Vivado, Vitis, Zynq 7000 SoC, PCI Express, pcie xdma driver, Petalinux.
 **EENIC Plugged in Board Photo:**
 <img alt="EENIC Plugged in Board Photo" src="4EENIC Plugged in Board Photo.jpg">
 
-**Zynq Block Design**
+**Zynq Block Design:**                      
 <img alt="Zynq Block Design" src="5Zynq Block Design.png">
 
 **Zynq Processing System Diagram:**
 <img alt="Zynq Processing System Diagram" src="6Zynq Processing System Diagram.jpg">
-
-
-
-

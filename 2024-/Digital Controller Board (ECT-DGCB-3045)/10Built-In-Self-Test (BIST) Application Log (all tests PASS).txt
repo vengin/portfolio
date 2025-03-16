@@ -1,0 +1,202 @@
+***********************************************************
+** DGCB3045 Digital Control Board (Rev.C) BIST Test      **
+***********************************************************
+
+
+********************************************************
+**               DGCB3045 - UART Test                 **
+********************************************************
+Testing UART
+115200,8,N,1
+Hello world!
+UART Test PASSED
+
+
+********************************************************
+**               DGCB3045 - Memory Test               **
+********************************************************
+NOTE: This application runs with D-Cache disabled.
+As a result, cacheline requests will not be generated
+
+Testing memory region: ps7_ddr_0
+    Memory Controller: ps7_ddr_0
+         Base Address: 0x00100000
+          Memory Size: 0x1FF00000 bytes
+      Test Range Size: 0x400000 bytes
+          32-bit test: PASSED!
+          16-bit test: PASSED!
+           8-bit test: PASSED!
+
+Testing memory region: ps7_ram_1
+    Memory Controller: ps7_ram_1
+         Base Address: 0xFFFF0000
+          Memory Size: 0xFE00 bytes
+      Test Range Size: 0xFE00 bytes
+          32-bit test: PASSED!
+          16-bit test: PASSED!
+           8-bit test: PASSED!
+--Memory Test Application Complete--
+
+
+********************************************************
+**             DGCB3045 - XADC(PS) Test               **
+********************************************************
+
+The Current Temperature is 55.639 Centigrades
+The Maximum Temperature is 55.831 Centigrades
+The Minimum Temperature is 55.247 Centigrades
+
+The Current VCCPINT is 0.997 Volts
+The Maximum VCCPINT is 0.998 Volts
+The Minimum VCCPINT is 0.997 Volts
+
+The Current VCCPAUX is 1.795 Volts
+The Maximum VCCPAUX is 1.796 Volts
+The Minimum VCCPAUX is 1.795 Volts
+
+
+The Current VCCPDDRO is 1.347 Volts
+The Maximum VCCPDDRO is 1.348 Volts
+The Minimum VCCPDDRO is 1.348 Volts
+
+XADC(PS) polled example test PASSED
+
+
+********************************************************
+**              DGCB3045 - SCU/GIC Test               **
+********************************************************
+Scugic Self Test Example PASSED
+
+
+********************************************************
+**               DGCB3045 - Timer Test                **
+********************************************************
+TTC Interrupt Example Test PASSED
+
+
+********************************************************
+**           DGCB3045 - Watchdog Timer Test           **
+********************************************************
+WDT SelfTest Example Test PASSED
+
+
+********************************************************
+**        DGCB3045 - Triple Timer Counter Test        **
+********************************************************
+Timer Interrupt Example PASSED
+
+
+********************************************************
+**               DGCB3045 - DCFG Test                 **
+********************************************************
+DcfgSelfTestExample PASSED
+
+
+********************************************************
+**          DGCB3045 - PS XDma W_Intr Test           **
+********************************************************
+Test round 0
+XDMaPs_Example_W_Intr PASSED
+
+
+********************************************************
+**          DGCB3045 - Clock Frequencies Test         **
+********************************************************
+Done
+CLK_025M: Expected =  25.000, Detected =  24.982  PASS
+CLK_111M: Expected = 100.000, Detected = 100.000  PASS
+CLK_222M: Expected =  75.000, Detected =  74.994  PASS
+CLK_333M: Expected = 110.000, Detected = 110.012  PASS
+
+Clock Frequencies Test PASSED
+
+
+********************************************************
+**       DGCB3045 - PS LED(s) (GPIO Output) Test      **
+********************************************************
+1 PS LEDs blinked? PS LEDs GpioOutputExample PASSED
+
+
+********************************************************
+**        DGCB3045 - PL LED(s) (GPIO Output) Test      **
+********************************************************
+1 LEDs blinked? LEDs GpioOutputExample PASSED
+
+
+********************************************************
+**      DGCB3045 - PL Button(s) (GPIO Input) Test     **
+********************************************************
+Data read from Buttons GPIO Input is 0x4
+Buttons GpioInputExample PASSED
+
+
+********************************************************
+**        DGCB3045 - BOARD_ID (GPIO Input) Test       **
+********************************************************
+Data read from Switches GPIO Input is 0x1
+Switches GpioInputExample PASSED
+
+
+********************************************************
+**              DGCB3045 - QSPI SelfTest              **
+********************************************************
+QSPI Selftest Example PASSED
+
+
+********************************************************
+**     DGCB3045 - QSPI Flash Polled Example Test      **
+********************************************************
+FlashID = 0x20 0xBB 0x20
+FlashID: B0=0x20: Manufacturer = Micron
+FlashID: B1=0xBB: Memory Type = 3V0
+FlashID: B1=0x20: Memory Capacity = 512Mb
+QSPI FLASH Polled Example Test PASSED
+
+
+********************************************************
+**          DGCB3045 - PS IIC Driver SelfTest         **
+********************************************************
+PS IIC Driver SelfTest PASSED
+
+
+********************************************************
+**        DGCB3045 - PS IIC Slave Monitor Test        **
+********************************************************
+Found IIC Slave with address = 0x70: Si5338 Programmable Clock Generator
+Found IIC Slave with address = 0x50: 24AA025E48T 2K Serial EEPROM with EUI-48 bit Node Identity
+Found IIC Slave with address = 0x6F: ISL12020M RTC
+Found IIC Slave with address = 0x57: ISL12020M Battery Backed 128-bit SRAM
+PS IIC Slave Monitor Test PASSED
+
+
+********************************************************
+**    DGCB3045 - PS IIC Si5338 Clk Gen Dev_ID Test    **
+********************************************************
+Part Number for Device ID Registers: Si5338A-B
+Device ID: B2=0x26: Base part last two digits = 38
+Device ID: B3=0x8: Device speed grade = A
+Device ID: B0=0x1: Device Revision ID = B
+
+PS IIC Si5338 Clk Gen Dev_ID Test PASSED
+
+
+********************************************************
+**      DGCB3045 - PS IIC EEPROM 24AA025E48T Test       **
+********************************************************
+EEPROM 24AA025E48T Organizationally Unique Identifier (OUI): 801F12
+OUI Byte[0]: Expected = 0x80, Detected = 0x80  PASS
+OUI Byte[1]: Expected = 0x1F, Detected = 0x1F  PASS
+OUI Byte[2]: Expected = 0x12, Detected = 0x12  PASS
+EEPROM 24AA025E48T UID24 (24-Bit Unique Node Address): 0xD0D731
+PS IIC EEPROM 24AA025E48T ID Test PASSED
+
+
+********************************************************
+**  DGCB3045 - PS IIC RTC ISL12020M Temperature Test  **
+********************************************************
+RTC ISL12020M Temperature in Centigrade (Kelvin*2): 44 (634 0x027A)
+PS RTC ISL12020M Temperature Test PASSED
+
+
+***********************************************************
+21 tests total, 21 passed, 0 failed

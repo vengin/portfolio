@@ -13,12 +13,16 @@
 </a><br><br>
 
 <a href="2024-\LabVIEW HIL Tests for Embedded Machine Monitor\README.md">
-  <b>Embedded Machine Monitor (ECT-EMM)</b><br>
-  <img src="2024-\LabVIEW HIL Tests for Embedded Machine Monitor\00LabVIEW HIL Tester Setup.jpg" alt="ECT-EMM" height="400"/>
+  <b>LabVIEW HIL Tests for Embedded Machine Monitor</b><br>
+  <img src="2024-\LabVIEW HIL Tests for Embedded Machine Monitor\00LabVIEW HIL Tester Setup.jpg" alt="LabVIEW HIL for ECT-EMM" height="400"/>
 </a><br><br>
-
 
 <a href="2024-\Enhanced Ethernet Network Interface Card (EENIC)\README.md">
   <b>Embedded Machine Monitor (ECT-EMM)</b><br>
-  <img src="2024-\Enhanced Ethernet Network Interface Card (EENIC)\0EENIC Board Components Explained.png" alt="ECT-EMM" height="400"/>
+  <img src="2024-\Enhanced Ethernet Network Interface Card (EENIC)\0EENIC Board Components Explained.png" alt="EENIC" height="400"/>
+</a><br><br>
+
+<a href="2024-\Digital Controller Board (ECT-DGCB-3045)\README.md">
+  <b>Embedded Machine Monitor (ECT-EMM)</b><br>
+  <img src="2024-\Digital Controller Board (ECT-DGCB-3045)\01DGCB Board Photo with Components Call-outs.jpg" alt="ECT-DGCB-3045" height="400"/>
 </a><br><br>

@@ -31,3 +31,8 @@
   <b>Digital Controller Base Board (ECT-DGCB-BB)</b><br>
   <img src="2024-\Digital Controller Base Board (ECT-DGCB-BB)\01ECT-DGCB-BB Board Photo with Tags.jpg" alt="ECT-DGCB-BB" height="400"/>
 </a><br><br>
+
+<a href="2024-\Digital Controller Evaluation Kit (ECT-DGCB-EVK)\README.md">
+  <b>Digital Controller Evaluation Kit (ECT-DGCB-EVK)</b><br>
+  <img src="2024-\Digital Controller Evaluation Kit (ECT-DGCB-EVK)\0ECT-DGCB-EVK Board with Tags.jpg" alt="ECT-DGCB-EVK" height="400"/>
+</a><br><br>

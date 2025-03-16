@@ -61,3 +61,8 @@
   <b>LabVIEW Tests for CSRD</b><br>
   <img src="2015-\LabVIEW Tests for CSRD\00CSRD PHW-HW Integration Test Setup.png" alt="LabVIEW CSRD" height="400"/>
 </a><br><br>
+
+<a href="2015-\LabVIEW Tests for SPO\README.md">
+  <b>LabVIEW Tests for SPO</b><br>
+  <img src="2015-\LabVIEW Tests for SPO\00Implemented LabVIEW Modules Catalog.png" alt="LabVIEW SPO" height="400"/>
+</a><br><br>

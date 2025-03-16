@@ -20,8 +20,8 @@ It is targeting such applications as **Edge Computing with AI/ML, Industrial Mac
 ### Tools & Technologies
 Vivado, Vitis, Zynq UltraScale+ MPSoC FPGA, KRIA SOM, Verilog, Embedded C, Firmware development, BIST, Board Bring-up, FSBL, BSP, Petalinux, hardware verification, PCIe, Gigabit Ethernet, DisplayPort, HDMI.
 
-<br>
-##
+<hr>
+
 **EСT-KRIA-EVK Board High Level Block Diagram:**
 <img alt="ECT-KRIA-EVK Board High Level Block Diagram" src="00ECT-KRIA-EVK Board High Level Block Diagram.jpg">
 

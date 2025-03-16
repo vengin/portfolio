@@ -17,8 +17,8 @@ This project required building **LabVIEW based test system**, to fully automate 
 ### Tools & Technologies
 LabVIEW, Digital Signal Processing (DSP), HART protocol, ADSP-CM40x processor, Hardware-In-the-Loop (HIL) testing.
 
-<br>
-##
+<hr>
+
 **LabVIEW HIL Tester Setup:**
 <img alt="LabVIEW HIL Tester Setup" src="00LabVIEW HIL Tester Setup.jpg">
 

@@ -23,8 +23,8 @@ This project required **processor firmware development** for Embedded Machine Mo
 ### Tools & Technologies
 IAR Embedded Workspace, Embedded C, ADSP-CM40x processor, LabVIEW, hardware verification, Digital Signal Processing (DSP), HART protocol.
 
-<br>
-##
+<hr>
+
 **ECT-EMM Product:**
 <img alt="ECT-EMM Product" src="00ECT-EMM Product.jpg">
 

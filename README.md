@@ -92,3 +92,7 @@
   <img src="2015-\Tabletop UI for Marknet Fetch Product (MarkNet-FETCH)\03Add a Lot Page.jpg" alt="MarkNet-FETCH" height="400"/>
 </a><br><br>
 
+<a href="2015-\Stand Equipment for PCB Programming and Testing\README.md">
+  <b>Stand Equipment for PCB Programming and Testing</b><br>
+  <img src="2015-\Stand Equipment for PCB Programming and Testing\0Stand with Board to Test Inserted.jpg" alt="Stand Equipment for PCB Programming and Testing" height="400"/>
+</a><br><br>

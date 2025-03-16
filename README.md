@@ -26,3 +26,8 @@
   <b>Embedded Machine Monitor (ECT-EMM)</b><br>
   <img src="2024-\Digital Controller Board (ECT-DGCB-3045)\01DGCB Board Photo with Components Call-outs.jpg" alt="ECT-DGCB-3045" height="400"/>
 </a><br><br>
+
+<a href="2024-\Digital Controller Base Board (ECT-DGCB-BB)\README.md">
+  <b>Digital Controller Base Board (ECT-DGCB-BB)</b><br>
+  <img src="2024-\Digital Controller Base Board (ECT-DGCB-BB)\01ECT-DGCB-BB Board Photo with Tags.jpg" alt="ECT-DGCB-BB" height="400"/>
+</a><br><br>

@@ -96,3 +96,8 @@
   <b>Stand Equipment for PCB Programming and Testing</b><br>
   <img src="2015-\Stand Equipment for PCB Programming and Testing\0Stand with Board to Test Inserted.jpg" alt="Stand Equipment for PCB Programming and Testing" height="400"/>
 </a><br><br>
+
+<a href="2015-\BACTEC FX Screens Multilingual Testing for Simulation Version of FX (FXSIM Zinc)\README.md">
+  <b>BACTEC FX Screens Multilingual Testing for Simulation Version of FX (FXSIM Zinc)</b><br>
+  <img src="2015-\BACTEC FX Screens Multilingual Testing for Simulation Version of FX (FXSIM Zinc)\00Zinc Designer Default windows Displayed on Launch.png" alt="FXSIM Zinc" height="400"/>
+</a><br><br>

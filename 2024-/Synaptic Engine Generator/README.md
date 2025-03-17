@@ -3,7 +3,7 @@ The objective of the project was **FPGA and Embedded C design, implementation an
 The project was tested on various **Altera (Intel) SoC FPGAs (Cyclone V, Arria V, Arria10)** as well as **Xilinx Zynq 7000 SoC**. It was also estimated as a **custom ASIC** solution, providing up to **x15 performance boost**, with low power consumption, targeting various embedded edge processing applications (Image Processing, Machine Learning, Robotics and Controls, Data Analytics and ML).
 
 
-### My Role:
+### My Role
 - **System Design**.
 - Reviewing and suggesting **schematics** changes.
 - Full **FPGA development** cycle in **Altera Quartus** and in **Xilinx Vivado**.
@@ -11,7 +11,7 @@ The project was tested on various **Altera (Intel) SoC FPGAs (Cyclone V, Arria V
 - Hardware debugging and testing.
 - Developing **custom Image and Video processing cores**, performing **Matlab co-simulation**.
 
-###Tools & Technologies:
+### Tools & Technologies
 Altera SoC FPGAs (CycloneV/ArriaV/Arria10), Xilinx Zynq7000 SoC FPGA, Altera Quartus, Xilinx Vivado, VHDL, Active-HDL, ModelSim, Embedded C, system design, hardware verification.
 
 <hr>

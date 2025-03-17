@@ -1,6 +1,6 @@
 # All-In-One Keyboard (AIOK) Firmware Development
 
-<a href="https://palcare.com/wp-content/uploads/2025/02/AIO-Keypad-Manual-Rev-1.3.3.pd" target="_blank">
+<a href="https://palcare.com/wp-content/uploads/2025/02/AIO-Keypad-Manual-Rev-1.3.3.pdf" target="_blank">
   <b>Product Guide Page</b><br>
   <img src="1AIO Keypad.png" alt="PalCare All-In-One-Keypad Guide" width="200">
 </a><br>
@@ -12,7 +12,7 @@ The **AIOK device** is a **wall-mounted wireless access control keypad** designe
 - Wirelessly transmit data to a central facilities station for monitoring
 AIOK installations can consist of a **single unit** or a **dual setup** (Master & Slave), enabling **power sharing** and **event communication** between units.
 
-## My Role:
+### My Role
 - Full **firmware development** for two different microprocessors:
   - **Microchip PIC18**.
   - **Silicon Labs EFM8 Sleepy Bee**.
@@ -24,7 +24,7 @@ AIOK installations can consist of a **single unit** or a **dual setup** (Master 
 
 Through this project, I successfully developed and delivered a **robust, tested, and verified** firmware solution for AIOK.
 
-## Tools & Technologies
+### Tools & Technologies
 Embedded C, firmware development, MPLAB, Keil, Silicon Labs Simplicity Studio, Microchip PIC18, Silicon Labs EFM8 Sleepy Bee, Touchscreen.
 
 <hr>

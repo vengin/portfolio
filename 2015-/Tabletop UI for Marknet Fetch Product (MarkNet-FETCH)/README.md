@@ -1,17 +1,12 @@
-# Tabletop UI for Marknet Fetch Product
-For this project a 21’st century look and feel **GUI** was implemented, which can be used for a family of printing devices. The result of the project was a Qt-based out-of-the-box wizard for a WVGA touch screen, with a specified menu system hierarchy, which reflects the main product features in a demo mode.
-Position: Senior Software/Firmware Developer.
-Responsibilities:
--	GUI development in Qt.
-Tools & technologies: Qt 5, C++, QtCreator, GUI development.
-
-The primary objective of FX Software Extension was to port existing Zinc-based software used on a fully automated medical blood culture system from VxWorks to Windows 7 platform. As a part of the project, FX Hardware Simulator environment was used to emulate FX instrument hardware. In order to accomplish the task Zinc libraries have been modified and adjusted for Win7 environment.
+# Tabletop UI for Marknet Fetch Product (MarkNet-FETCH)
+The goals was to replace existing methods of cataloging auctions with **efficient, modern and streamline process** by building a **complete cataloging application for desktop/tablets**. This is a necessary **tool to improve cataloging efficiency and assist companies in growing their business**. This **Qt-based application** managed all stages of **auction catalog management**, assigned different **privileges** for different user groups, provided **synchronization** in erratic and high demand auction environment.
 
 ### My Role
--	Testing and verification of FX Hardware Simulator environment and BACTEC FX instrument GUI.
+- **QT Development** (GUI and business logic).
+- **Testing**.
 
 ### Tools & Technologies
-Microsoft Visual Studio 10.0, Zinc designer, VMWare Workstation.
+Qt 5, C++, QtCreator, synchronization.
 
 <hr>
 

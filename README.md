@@ -18,12 +18,12 @@
 </a><br><br>
 
 <a href="2024-\Enhanced Ethernet Network Interface Card (EENIC)\README.md">
-  <b>Embedded Machine Monitor (ECT-EMM)</b><br>
+  <b>Enhanced Ethernet Network Interface Card (EENIC)</b><br>
   <img src="2024-\Enhanced Ethernet Network Interface Card (EENIC)\0EENIC Board Components Explained.png" alt="EENIC" height="400"/>
 </a><br><br>
 
 <a href="2024-\Digital Controller Board (ECT-DGCB-3045)\README.md">
-  <b>Embedded Machine Monitor (ECT-EMM)</b><br>
+  <b>Digital Controller Board (ECT-DGCB-3045)</b><br>
   <img src="2024-\Digital Controller Board (ECT-DGCB-3045)\01DGCB Board Photo with Components Call-outs.jpg" alt="ECT-DGCB-3045" height="400"/>
 </a><br><br>
 
@@ -67,11 +67,6 @@
   <img src="2015-\LabVIEW Tests for SPO\00Implemented LabVIEW Modules Catalog.png" alt="LabVIEW SPO" height="400"/>
 </a><br><br>
 
-<a href="2015-\MICROTRAX Programmable Hardware Testbenches and Design Documentation\README.md">
-  <b>MICROTRAX Programmable Hardware Testbenches and Design Documentation</b><br>
-  <img src="2015-\MICROTRAX Programmable Hardware Testbenches and Design Documentation\00Example Test Setup with PC Diagnostic Tool to Microtrax Unit.jpg" alt="MICROTRAX PHWTB" height="400"/>
-</a><br><br>
-
 <a href="2015-\Precision Station Stop Transmitter (PSST)\README.md">
   <b>Precision Station Stop Transmitter (PSST)</b><br>
   <img src="2015-\Precision Station Stop Transmitter (PSST)\00PSS Transmitter Architecture.png" alt="PSST" height="400"/>
@@ -82,9 +77,14 @@
   <img src="2015-\Aiphone IX-OnGuard Integration for Device Translator Driver (IXSI)\0IX Series Products.jpg" alt="IXSI" height="400"/>
 </a><br><br>
 
+<a href="2015-\MICROTRAX Programmable Hardware Testbenches and Design Documentation\README.md">
+  <b>MICROTRAX Programmable Hardware Testbenches and Design Documentation</b><br>
+  <img src="2015-\MICROTRAX Programmable Hardware Testbenches and Design Documentation\00Example Test Setup with PC Diagnostic Tool to Microtrax Unit.jpg" alt="MICROTRAX PHWTB" height="400"/>
+</a><br><br>
+
 <a href="2015-\Programmable Hardware Testbenches (PHWTB)\README.md">
   <b>Programmable Hardware Testbenches (PHWTB) for SPO board</b><br>
-  <img src="2015-\Programmable Hardware Testbenches (PHWTB)\0SPO Board - HW-PHW Architecture.png" alt="PHWTB" height="400"/>
+  <img src="2015-\Programmable Hardware Testbenches (PHWTB)\0SPO Board - HW-PHW Architecture.png" alt="PHWTB SPO" height="400"/>
 </a><br><br>
 
 <a href="2015-\Tabletop UI for Marknet Fetch Product (MarkNet-FETCH)\README.md">

@@ -1,5 +1,5 @@
 # BACTEC FX Screens Multilingual Testing for Simulation Version of FX (FXSIM Zinc)
-The primary objective of FX Software Extension was to port existing Zinc-based software used on a fully automated medical blood culture system from VxWorks to Windows 7 platform. As a part of the project, FX Hardware Simulator environment was used to emulate FX instrument hardware. In order to accomplish the task Zinc libraries have been modified and adjusted for Win7 environment.
+The primary objective of FX Software Extension was to **port existing Zinc-based software** used on a **fully automated medical blood culture system** from **VxWorks to Windows 7** platform. As a part of the project, **FX Hardware Simulator** environment was used to **emulate** FX instrument **hardware**. In order to accomplish the task **Zinc libraries** have been modified and adjusted for Win7 environment.
 
 ### My Role
 -	Testing and verification of FX Hardware Simulator environment and BACTEC FX instrument GUI.

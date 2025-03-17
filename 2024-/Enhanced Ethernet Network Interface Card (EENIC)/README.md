@@ -1,4 +1,4 @@
-# Enhanced Ethernet Network Interface Card (EENIC">
+# Enhanced Ethernet Network Interface Card (EENIC)
 The objective of the project was to create **Enhanced Ethernet Network Interface Card (EENIC)**, enabling **high-speed data transfer** between **network (Ethernet)** and **Host memory (PCIe)**.
 The project was based on **Zynq 7000 SoC FPGA** (featuring **Dual ARM Cortex-A9** processors), with:
 - **x4 lane PCIe Endpoint** at **5 Gb/s (Gen2) speed**

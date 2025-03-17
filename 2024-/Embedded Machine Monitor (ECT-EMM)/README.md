@@ -1,4 +1,4 @@
-# Embedded Machine Monitor (ECT-EMM">
+# Embedded Machine Monitor (ECT-EMM)
 
 <a href="https://ectron.com/product/ect-emm/" target="_blank">
   <b>Product Page</b><br>
@@ -10,8 +10,7 @@ This project required **processor firmware development** for Embedded Machine Mo
 - Multiple **fail-safe mechanisms** (both hardware and software) for **extra security** in case of component failure.
 - Guarantee **millisecond response time** for any unsafe events, which is vital in many industrial rotating devices (e.g., gas turbines).
 - **High degree of stability and accuracy** for analog output speed signal.
-- Guarantee **millisecond response time**, which is vital in many industrial rotating devices (e.g., gas turbines">
-- **HART connectivity** over 4 to 20mA analog lines
+- **HART connectivity** over 4 to 20mA analog lines.
 - **Ethernet/IP** connectivity.
 
 ### My Role

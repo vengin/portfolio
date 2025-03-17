@@ -17,7 +17,7 @@ Altera Quartus II 8.1, FPGA, VHDL, ModelSim v6.1e, MATLAB (Signal Processing, Co
 <img alt="PSS Transmitter Architecture" src="00PSS Transmitter Architecture.png">
 
 **Vital System Board Development Product Brief:**
-You can view the [Vital System Board Development Product Brief" src="00Vital System Board Development Product Brief.pdf) for more detailed information.
+You can view the [Vital System Board Development Product Brief](00Vital%20System%20Board%20Development%20Product%20Brief.pdf) for more detailed information.
 
 **PSS Transmitter Block Diagram:**
 <img alt="PSS Transmitter Block Diagram" src="01PSS Transmitter Block Diagram.png">

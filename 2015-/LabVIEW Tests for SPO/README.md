@@ -13,7 +13,6 @@ LabVIEW 2010, Altera Quartus II (8.1, 10.1), Altera NIOS-II EDS, Embedded C, Alt
 
 <hr>
 
-##
 **Implemented LabVIEW Modules Catalog:**
 <img alt="Implemented LabVIEW Modules Catalog" src="00Implemented LabVIEW Modules Catalog.png">
 

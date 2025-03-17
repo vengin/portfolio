@@ -18,7 +18,7 @@ C/C++, Widows Driver Model (WDM), Windows Driver Kit (WDK) 8.0, Windows Driver F
 <img alt="Cash Drawer Terminal" src="0Cash Drawer Terminal.jpg">
 
 **Cash Drawer Driver Development Description:**
-You can view the [Development Description](8Cash%20Drawer%20Driver%20Development%20Description.pdf) for more detailed information.
+You can view the [Development Description Success Story](8Cash%20Drawer%20Driver%20Development%20Description.pdf) for more detailed information.
 
 **Cash Drawer API Test:**
 <img alt="Cash Drawer API Test" src="1Cash Drawer API Test.png">

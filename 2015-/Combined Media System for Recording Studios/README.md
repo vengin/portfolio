@@ -8,8 +8,8 @@
 The **Combined Media System** project included **full cycle of development** and **hardware integration** of several **FPGAs and proceccors** designs required for **Audio, MADI, Ethernet/Video, and Intercom** devices. The platform allows **I/O, conversion, DSP and routing** of versatile **media content**, such as **professional audio/video, intercom, Ethernet, RS422/232/485 and TTL data**. Flawless connection was guaranteed with use of redundant fiber optic and power. Platform supported **Typical (Star, Daisy Chain, Ring)** as well as **Hybrid topology**.
 
 ### My Role
-- Implementing **FPGA firmware** for various **Xilinx FPGAs** ([Spartan-3](https://www.xilinx.com/products/silicon-devices/fpga/spartan-3.html), [Spartan-3E](https://www.xilinx.com/products/silicon-devices/fpga/spartan-3e.html), [Spartan-6](https://www.xilinx.com/products/silicon-devices/fpga/spartan-6.html)).
-- Implementing firmware for **ARM-based MCUs** ([AT91 SAM7SE](https://www.microchip.com/en-us/product/AT91SAM7SE512), [SAM7X Series](https://www.microchip.com/en-us/product/AT91SAM7X256))
+- Implementing **FPGA firmware** for various **Xilinx FPGAs** ([Spartan-3](https://docs.amd.com/v/u/en-US/ds099), [Spartan-3E](https://docs.amd.com/v/u/en-US/ds312), [Spartan-6](https://www.xilinx.com/products/silicon-devices/fpga/spartan-6.html)).
+- Implementing firmware for **ARM-based MCUs** ([AT91 SAM7SE](https://www.microchip.com/en-us/product/AT91SAM7SE512), [SAM7X Series](https://www.microchip.com/en-us/product/AT91SAM7X256)).
 - **Debugging, verification, and testing** (hardware, firmware, software).
 - Assisting in implementing a **Qt-based** configuration and management **desktop application**.
 - Technical **documentation** support.
@@ -21,13 +21,10 @@ Xilinx ISE (ISE, DSP Tools, Chip Scope), Active-HDL, IAR Embedded Workbench, Dig
 <hr>
 
 **Combined Media System for Recording Studios:**
-You can view the [Combined Media System for Recording Studios](00Combined Media System for Recording Studios.pdf) document.
+You can view the [Combined Media System for Recording Studios Project Success Story](00Combined%20Media%20System%20for%20Recording%20Studios.pdf) document.
 
 **SDF Front Panel:**
 <img alt="SDF Front Panel" src="00SDF Front Panel.jpg">
-
-**SDF Product Page:**
-You can read the [Product Datasheet](00SDF%20Product%20page.txt) for more information
 
 **Basic Live MADI System Application Example:**
 <img alt="Basic Live MADI System Application Example" src="01Basic Live MADI system application example.png">

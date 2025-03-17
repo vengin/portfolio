@@ -6,7 +6,7 @@ The main purpose of the project was to create **Testbenches** to **automate veri
 -	**Firmware verification** and simulation.
 -	Customer **schematics** review.
 -	Technical **documentation** support.
--	**Communication** with Customer
+-	**Communication** with Customer.
 
 ### Tools & Technologies
 Altera Quartus II 8.1, FPGA, VHDL, ModelSim v6.1e, MATLAB (Signal Processing, Compiler, Report Generator), TCL, DO-254.

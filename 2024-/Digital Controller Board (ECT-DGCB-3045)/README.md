@@ -5,16 +5,15 @@
   <img src="https://impartner.blob.core.windows.net/prm/a879fbeeabc548978fc6c9990329905d/_/320x200.png?sv=2018-03-28&sr=b&sig=MYak%2FMxnWHuA1jQCyYsoa%2Fbm7BQ%2FAyxBhGXySZYF61E%3D&se=2025-03-16T16%3A00%3A00Z&sp=r" alt="Product Page" width="200">
 </a><br>
 
-This project required a **full FPGA and Embedded C development** with **board bring-up** for Digital Controller Carrier Board (ECT-DGCB-BB). This Base Board is compatible with **Ectron Digital Controller (ECT-DGCB)** daughter board, as well as **Raspberry Pi\LoRaWAN** boards. It has a rich set of interfaces specifically meant for developing the **IoT applications**: Raspberry Pi HAT, Gigabit Ethernet, USB 2.0, Two Mini PCIe x1 (5Gb), LCD, SD Card, Digital Outputs, Analog&Digtal I/O. It is based on **Zynq 7000 SoC** innovative  platform, offering a combination of powerful **FPGA** and **1 GHz Dual core ARM processor**.
+This project involved a **complete FPGA/Embedded C development cycle** with **board bring-up** for a Digital Controller Board (DGCB) - a Computer-On-Module (COM), that has **multiple consumer/industrial applications**. It is based on **Zynq 7000 SoC** powerful platform, offering a combination of **FPGA** and **1 GHz Dual core ARM processor**. It has a **credit card sized** form factor design, allowing **easy integration** with existing products in various form factors such as Com Express, PCIe 104 or others. DGCB is **Azure IoT ready**, adaptable to **Google or Amazon Cloud**, targeting such application as **Embedded IoT, Signal Processing, Machine Control, Edge IIoT Applications, Industrial Vision**, etc.
 
 ### My Role
-
-- Resolving **schematics** problems.
-- **FPGA** development in **Vivado**.
-- **Embedded C** *Build-In-Self-Test (BIST)* application in **Vitis** with custom **First-Stage-Boot Loader (FSBL)**.
+- **Schematics** review and modifications across several board revisions.
+- **Vivado FPGA** development.
+- **Vitis Embedded C** *Build-In-Self-Test (BIST)* application with custom **First-Stage-Boot Loader (FSBL)**.
 - Full **board bring up** with **hardware debugging and verifying**.
 - Assisting in **PetaLinux** built.
-- Technical and documentation support, managing junior developers.
+- Technical documentation support, mentoring junior developers.
 
 ### Tools & Technologies
 Vivado, Vitis, Zynq 7000 SoC FPGA, Verilog, Embedded C, Firmware development, BIST, Board Bring-up, FSBL, Petalinux.

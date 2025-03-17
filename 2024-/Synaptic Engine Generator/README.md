@@ -12,7 +12,7 @@ The project was tested on various **Altera (Intel) SoC FPGAs (Cyclone V, Arria V
 - Developing **custom Image and Video processing cores**, performing **Matlab co-simulation**.
 
 ### Tools & Technologies
-Altera SoC FPGAs (CycloneV/ArriaV/Arria10), Xilinx Zynq7000 SoC FPGA, Altera Quartus, Xilinx Vivado, VHDL, Active-HDL, ModelSim, Embedded C, system design, hardware verification.
+Altera SoC FPGAs (CycloneV/ArriaV/Arria10), Xilinx Zynq7000 SoC FPGA, Altera Quartus, Xilinx Vivado, VHDL, Active-HDL, ModelSim, Embedded C, Matlab, system design, hardware verification.
 
 <hr>
 

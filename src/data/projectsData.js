@@ -1,13 +1,3 @@
-// import one from '../assets/svg/projects/one.svg'
-// import two from '../assets/svg/projects/two.svg'
-// import three from '../assets/svg/projects/three.svg'
-// import four from '../assets/svg/projects/four.svg'
-// import five from '../assets/svg/projects/five.svg'
-// import six from '../assets/svg/projects/six.svg'
-// import seven from '../assets/svg/projects/seven.svg'
-// import eight from '../assets/svg/projects/eight.svg'
-
-
 export const projectsData = [
   {
     id: 1,
@@ -44,7 +34,7 @@ export const projectsData = [
     tags: ['Zynq 7000 SoC', 'Vivado', 'Vitis', 'Ebmedded C','PCIe', 'pcie xdma driver', 'Petalinux'],
     code: 'https://github.com/vengin/portfolio/blob/main/2024-/Enhanced%20Ethernet%20Network%20Interface%20Card%20(EENIC)/README.md',
     demo: 'https://github.com/vengin/portfolio/blob/main/2024-/Enhanced%20Ethernet%20Network%20Interface%20Card%20(EENIC)/README.md',
-    image: 'https://raw.githubusercontent.com/vengin/portfolio/main/2024-/Digital%20Controller%20Board%20(ECT-DGCB-3045)/01DGCB%20Board%20Photo%20with%20Components%20Call-outs.jpg'
+    image: 'https://raw.githubusercontent.com/vengin/portfolio/main/2024-/Enhanced%20Ethernet%20Network%20Interface%20Card%20(EENIC)/0EENIC%20Board%20Components%20Explained.png'
   },
   {
     id: 5,

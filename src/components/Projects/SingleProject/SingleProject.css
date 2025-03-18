@@ -1,13 +1,13 @@
 .singleProject {
     box-shadow: 4px 4px 8px rgba(36, 3, 3, 0.2);
-    width: 304px;
-    height: 360px;
+    width: 510px;
+    height: 600px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 1.4rem 2rem;
+    padding: 1.6rem 2.2rem;
     position: relative;
     cursor: pointer;
     overflow: hidden;
@@ -26,7 +26,7 @@
     font-family: var(--primaryFont);
     font-style: normal;
     font-weight: 600;
-    font-size: 1.525rem;
+    font-size: 1.8rem;
     line-height: 110%;
     text-align: center;
 }
@@ -62,11 +62,11 @@
 .singleProject .project--desc{
     position: absolute;
     width: 95%;
-    height: 160px;
+    height: 200px;
     left: 0;
     top: 0;
     transform: translate(-110%,40%);
-    padding: 15px;
+    padding: 20px;
     border-radius: 0 20px 20px 0;
     transition: transform 0.9s;
     line-height: 110%;
@@ -74,6 +74,7 @@
     align-items: center;
     justify-content: center;
     font-family: var(--primaryFont);
+    font-size: 1.1rem;
 }
   
 .singleProject:hover .project--desc{
@@ -84,8 +85,8 @@
     position: absolute;
     bottom: 20px;
     right: 0;
-    width: 140px;
-    font-size: 0.8rem;
+    width: 160px;
+    font-size: 0.9rem;
     display: flex;
     justify-content: center;
     gap: 0.5rem;
@@ -93,7 +94,7 @@
     border-radius: 10px 0 0 10px;
     transform: translateX(100%);
     transition: transform 0.5s 0.3s;
-    padding: 0.825rem;
+    padding: 0.925rem;
 }
   
 .singleProject:hover .project--lang{

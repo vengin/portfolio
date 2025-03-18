@@ -1,5 +1,5 @@
 # Cash Drawer Driver 64-Bit Development (CDD64)
-The primary objective for CDD64 project was upgrading and **modifying currently** used cash drawer **kernel driver** for PAR EverServ 7000 and EverServ 7200 models into a 64-bit driver using **Kernel-Mode Driver Framework (KMDF)**. The project also required providing **WMI support** for the driver, updating **demo application**, providing support to **debug and test the driver**. An **installation package** was also developed as a part of the project.
+The primary objective for CDD64 project was **upgrading and modifying** currently used cash drawer **kernel driver** for PAR EverServ 7000 and EverServ 7200 models into a **64-bit driver** using **Kernel-Mode Driver Framework (KMDF)**. The project also required providing **WMI support** for the driver, updating **demo application**, providing support to **debug and test the driver**. An **installation package** was also developed as a part of the project.
 
 ### My Role
 -	**Code review**.

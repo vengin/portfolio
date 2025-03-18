@@ -5,7 +5,7 @@ The primary objective of FX Software Extension was to **port existing Zinc-based
 -	Testing and verification of FX Hardware Simulator environment and BACTEC FX instrument GUI.
 
 ### Tools & Technologies
-Microsoft Visual Studio 10.0, Zinc designer, VMWare Workstation.
+Microsoft Visual Studio 10.0, Zinc designer, C\C++, VMWare Workstation.
 
 <hr>
 

@@ -5,7 +5,7 @@
   <img src="https://www.psa.inc/upload/iblock/9d2/9d2d9588236d929e8eedc6abee2f5b2e.png" alt="SDF" width="500">
 </a><br>
 
-The **Combined Media System** project included **full cycle of development** and **hardware integration** of several **FPGAs and proceccors** designs required for **Audio, MADI, Ethernet/Video, and Intercom** devices. The platform allows **I/O, conversion, DSP and routing** of versatile **media content**, such as **professional audio/video, intercom, Ethernet, RS422/232/485 and TTL data**. Flawless connection was guaranteed with use of redundant fiber optic and power. Platform supported **Typical (Star, Daisy Chain, Ring)** as well as **Hybrid topology**.
+The **Combined Media System** project included **full cycle of development** and **hardware integration** of several **FPGA and proceccor** designs required for **Audio, MADI, Ethernet/Video, and Intercom** devices. The platform allows **I/O, conversion, DSP and routing** of versatile **media content**, such as **professional audio/video, intercom, Ethernet, RS422/232/485 and TTL data**. Flawless connection was guaranteed with use of redundant fiber optic and power. Platform supported **Typical (Star, Daisy Chain, Ring)** as well as **Hybrid topology**.
 
 ### My Role
 - Implementing **FPGA firmware** for various **Xilinx FPGAs** ([Spartan-3](https://docs.amd.com/v/u/en-US/ds099), [Spartan-3E](https://docs.amd.com/v/u/en-US/ds312), [Spartan-6](https://www.xilinx.com/products/silicon-devices/fpga/spartan-6.html)).

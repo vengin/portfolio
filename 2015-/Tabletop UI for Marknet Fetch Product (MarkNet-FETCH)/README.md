@@ -1,12 +1,12 @@
 # Tabletop UI for Marknet Fetch Product (MarkNet-FETCH)
-The goals was to replace existing methods of cataloging auctions with **efficient, modern and streamline process** by building a **complete cataloging application for desktop/tablets**. This is a necessary **tool to improve cataloging efficiency and assist companies in growing their business**. This **Qt-based application** managed all stages of **auction catalog management**, assigned different **privileges** for different user groups, provided **synchronization** in erratic and high demand auction environment.
+The goals was to replace existing methods of cataloging auctions with **efficient, modern and streamline process** by building a **complete cataloging application for desktop/tablets**. This is a necessary **tool to improve cataloging efficiency and assist companies in growing their business**. This **Qt-based application** handled all stages of **auction catalog management**, assigned different **privileges** for different user groups, provided **synchronization** in erratic and high demand auction environment.
 
 ### My Role
 - **QT Development** (GUI and business logic).
 - **Testing**.
 
 ### Tools & Technologies
-Qt 5, C++, QtCreator, synchronization.
+Qt 5, C++, QtCreator, GUI, synchronization.
 
 <hr>
 

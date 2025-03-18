@@ -1,4 +1,4 @@
-# Cab Signal Receiver Modulator (CSRD) LabVIEW Integration Testing
+# Cab Signal Receiver Demodulator (CSRD) LabVIEW Integration Testing
 The goal of the project was to build **test framework** to demonstrate, that the **FPGA firmware** interacts with other **PCB components** properly, performing its intended functions. The final test framework was implemented as a series of semi-automated **LabVIEW tests**. Most tests required interactions between FPGA firmware (Xilinx/Altera FPGAs with NIOS soft-processors) and PCB devices (a full range of digital and analog circuitry).
 
 ## My Role

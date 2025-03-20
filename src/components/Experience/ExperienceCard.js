@@ -47,12 +47,15 @@ function ExperienceCard({
       width: '100%',
       height: '100%',
       padding: '10px',
-      backgroundColor: '#333',
+      backgroundColor: '#A0A080',
       color: '#fff',
       opacity: 0,
       transition: 'opacity 0.3s ease',
       overflow: 'auto',
       fontSize: '1.2rem',
+      display: 'flex',
+      alignItems: 'center',
+      justifyContent: 'center',
       ul: {
         listStyleType: 'disc',
         paddingLeft: '20px',
@@ -60,8 +63,11 @@ function ExperienceCard({
       li: {
         marginBottom: '5px',
       },
+      a: {
+        color: '#0000ff',
+      },
       '&:hover': {
-        opacity: 1,
+        opacity: 0.9,
       },
     },
   }))

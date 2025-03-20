@@ -1,12 +1,15 @@
  export const skillsData = [
+    'C',
+    'C++',
+    'Python',
+    'Matlab',
+    'Docker',
+    'Git',
+    'Ubuntu',
+    'Markdown',
+    'MySQL',
     'HTML',
-    'Fastify',
-    'Blender',
-    'Figma',
-    'Javascript',
-    'CSS',
-    'React',
-    'Django',
+
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -18,7 +21,7 @@
 /* 
     HTML
     CSS
-    JS 
+    JS
     React
     Next JS
     Nuxt JS

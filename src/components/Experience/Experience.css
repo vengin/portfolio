@@ -92,6 +92,11 @@
     pointer-events: none;
 }
 
+.experience-card.dimmed {
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: background-color 0.3s ease;
+}
+
 
 
 

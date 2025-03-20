@@ -9,7 +9,7 @@ import expImgBlack from '../../assets/svg/experience/expImgBlack.svg'
 
 import './Experience.css'
 
-function ExperienceCard({id, company, jobtitle, startYear, endYear, about}) {
+function ExperienceCard({id, company, jobtitle, startYear, endYear, about, url}) {
 
     const { theme } = useContext(ThemeContext);
 
@@ -27,7 +27,7 @@ function ExperienceCard({id, company, jobtitle, startYear, endYear, about}) {
 
     return (
         <Fade bottom>
-            <div key={id} className={`experience-card ${classes.experienceCard}`}>
+            <a href={url} target="_blank" rel="noopener noreferrer" key={id} className={`experience-card ${classes.experienceCard}`}>
                 <div className="expcard-img" style={{backgroundColor: theme.primary}}>
                     <img src={theme.type === 'light' ? expImgBlack : expImgWhite} alt="" />
                 </div>
@@ -37,8 +37,8 @@ function ExperienceCard({id, company, jobtitle, startYear, endYear, about}) {
                     <h5 style={{color: theme.tertiary80}}>{company}</h5>
                     <h5 style={{color: theme.tertiary80}}>{about}</h5>
                 </div>
-            </div>
-        </Fade>   
+            </a>
+        </Fade>
     )
 }
 

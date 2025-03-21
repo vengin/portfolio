@@ -1,5 +1,6 @@
 import resume from '../assets/pdf/resume.pdf'
 import profileImg from '../assets/jpg/profileImg.jpg'
+//import profileImg from 'https://raw.githubusercontent.com/vengin/developer-portfolio/master/src/assets/jpg/profileImg.jpg'
 
 export const aboutData = {
     title: "Who I am",

@@ -17,9 +17,9 @@
   <img src="2024-\LabVIEW HIL Tests for Embedded Machine Monitor\00LabVIEW HIL Tester Setup.jpg" alt="LabVIEW HIL for ECT-EMM" height="400"/>
 </a><br><br>
 
-<a href="2024-\Enhanced Ethernet Network Interface Card (EENIC)\README.md">
-  <b>Enhanced Ethernet Network Interface Card (EENIC)</b><br>
-  <img src="2024-\Enhanced Ethernet Network Interface Card (EENIC)\0EENIC Board Components Explained.png" alt="EENIC" height="400"/>
+<a href="2024-\PCIe Ethernet NIC Adapter\README.md">
+  <b>PCIe Ethernet NIC Adapter</b><br>
+  <img src="2024-\PCIe Ethernet NIC Adapter\0NIC Board Components Explained.png" alt="NIC" height="400"/>
 </a><br><br>
 
 <a href="2024-\Digital Controller Board (ECT-DGCB-3045)\README.md">

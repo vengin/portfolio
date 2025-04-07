@@ -28,11 +28,11 @@ Vivado, Vitis, Zynq UltraScale+ MPSoC FPGA, KRIA SOM, Verilog, Embedded C, Firmw
 **EСT-KRIA-EVK Product Brief:**
 You can view the [product brief](01EСT-KRIA-EVK%20Product%20Brief.pdf) for more detailed information.
 
-**ECT-KRIA Board Foto (Front):**
-<img alt="ECT-KRIA Board Foto (Front)" src="02ECT-KRIA Board Foto (Front).jpg">
-
 **ECT-KRIA-EVK Board Interfaces Connection Diagram:**
 <img alt="ECT-KRIA-EVK Board Interfaces Connection Diagram" src="03ECT-KRIA-EVK Board Interfaces Connection Diagram.png">
+
+**ECT-KRIA Board Foto (Front):**
+<img alt="ECT-KRIA Board Foto (Front)" src="02ECT-KRIA Board Foto (Front).jpg">
 
 **ECT-KRIA-EVK Powered up Board Photo:**
 <img alt="ECT-KRIA-EVK Powered up Board Photo" src="04ECT-KRIA-EVK Powered up Board Photo.jpg">

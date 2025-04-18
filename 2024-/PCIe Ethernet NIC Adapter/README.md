@@ -20,6 +20,9 @@ Vivado, Vitis, Zynq 7000 SoC, PCI Express, pcie xdma driver, Petalinux.
 **NIC Board Components Explained:**
 <img alt="NIC Board Components Explained" src="0NIC Board Components Explained.png">
 
+**EСT-KRIA-EVK Product Brief:**
+You can view the [Board Quick Start](1NIC%20Board%20Quick%20Start.pdf) for more detailed information.
+
 **NIC Data Flow:**                      
 <img alt="NIC Data Flow" src="1NIC Data Flow.jpg">
 
